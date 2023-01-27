@@ -22,7 +22,7 @@ p {
 }
 
 img {
-    size: 250px;
+    width: 250px;
     display: block;
     margin: 0 auto;
     border: 10px dashed #FFFFFF;
@@ -97,6 +97,6 @@ footer {
 footer p {
     text-align: right;
     font-size: 20px;
-    padding: 15px 15px 15px 0px solid;
+    padding: 15px 15px 15px 0px;
 }
 
